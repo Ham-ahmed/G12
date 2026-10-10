@@ -273,9 +273,9 @@ echo ""
 # Define possible download URLs
 DOWNLOAD_URLS=(
     "${GITHUB_BASE}/MagicPanelMax_v${version}.tar.gz"
-    "https://https://raw.githubusercontent.com/Ham-ahmed/G12/refs/heads/main/MagicPanelMax_v${version}.tar.gz"
+    "https://raw.githubusercontent.com/Ham-ahmed/G12/refs/heads/main/MagicPanelMax_v${version}.tar.gz"
     "${GITHUB_BASE}/MagicPanelMax_v${version}.tgz"
-    "https://github.com/Ham-ahmed/G10/raw/main/MagicPanelMax_v${version}.tar.gz"
+    "https://raw.githubusercontent.com/Ham-ahmed/G12/refs/heads/main/MagicPanelMax_v${version}.tar.gz"
 )
 
 # Try downloading from all URLs
