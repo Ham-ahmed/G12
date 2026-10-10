@@ -1,6 +1,6 @@
 #!/bin/bash
 
-##setup command=wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/G12/refs/heads/main/MagicPanelMax-install.sh -O - | /bin/sh
+##setup command=wget -q "--no-check-certificate"https://raw.githubusercontent.com/Ham-ahmed/G12/refs/heads/main/MagicPanelGold-install.sh -O - | /bin/sh
 
 ######### Only This line to edit with new version ######
 version='12.0'
