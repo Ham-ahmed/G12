@@ -6,8 +6,9 @@
     "تحسين تجربة المستخدم العامة"
   ],
   "new_features": [
-    "GlobalTranslate Max 9.1-Grid py 3.14.6-7 13-10-2026",
-    "Tu 13-10-2026 Time 07:00:00"
+            "GlobalTranslate Max 9.0.18-Grid py 3.14.6-7 18-10-2026",
+            "GlobalTranslate Max 9.0.17-Grid py 3.13.12 18-10-2026",            
+            "Sun 18-10-2026 Time 08:00:00",
   ],
   "fixes": [
     "إصلاح مشكلة التحقق من التحديثات",
