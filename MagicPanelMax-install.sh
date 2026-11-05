@@ -7,7 +7,7 @@ version='12.0'
 ##############################################################
 
 TMPPATH=/tmp/MagicPanelMax
-GITHUB_BASE="https://raw.githubusercontent.com/Ham-ahmed/G/refs/heads/main"
+GITHUB_BASE="https://raw.githubusercontent.com/Ham-ahmed/G12/refs/heads/main"
 GITHUB_RAW="${GITHUB_BASE}"
 
 # Check architecture and set plugin path
